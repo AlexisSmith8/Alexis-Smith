@@ -12,4 +12,4 @@ The client-server architecture allows a person to log into the Local Area Networ
 ### Cloud Computing
 This provides users with mobile access to data and applications so that computers are used to be able to communication, rather than just an information center. 
 ## Conclusion
-I have learned how to get a repository started on GITHUB, add a screen shot on the site as well as how to edit the readme text. This first chapter has given me insight on the basics of information systems and how they have developed through out time. I am excited to learn more about programming and IT in future chapters.
+I have learned how to get a repository started on GITHUB, add a screen shot on the site as well as how to edit the readme text. I have reviewed my syllabus and know my expectations for this course. This first chapter has given me insight on the basics of information systems and how they have developed through out time. I am excited to learn more about programming and IT in future chapters.
